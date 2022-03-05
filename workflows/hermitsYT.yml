@@ -1,8 +1,8 @@
 on:
   youtube:
-    channel_id:
-      - UCnCikd0s4i9KoDtaHPlK-JA
-      - UCseUQK4kC3x2x543nHtGpzw
+    playlist_id:
+      - PLoH7Sjb8-XEhkvoAO9AuSxVTzI4mjm6b2 #Cubfan
+      - 
 jobs:
   print:
     name: Print
@@ -11,11 +11,10 @@ jobs:
       - name: Make a HTTP Request
         uses: actionsflow/axios@v1
         with:
-          url: https://hookb.in/VGPzxoWbdjtE22bwznzE
+          url: ${{secrets.DISCORD_WEBHOOK}}
           method: POST
-          body: |
+          body: 
             {
-              "link":"${{ on.rss.outputs.link }}", 
-              "title": "${{ on.rss.outputs.title }}",
-              "content":"<<<${{ on.rss.outputs.contentSnippet }}>>>"
+              "content":"${{on.youtube.outputs.author}} Uploaded a new Hermitcraft video: ${{on.youtube.outputs.title}} \n**Link**: ${{on.youtube.outputs.link}}",
+              
             }
