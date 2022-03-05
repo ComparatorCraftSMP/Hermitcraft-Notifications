@@ -1,5 +1,12 @@
 on:
   youtube:
+    channel_id:
+      - UClu2e7S8atp6tG2galK9hgg #Bdubs
+      - UCFKDEp9si4RmHFWJW1vYsMA #Etho
+      - UChi5MyXJLQuPni3dM19Ar3g #Hypno
+      - UCuMJPFqazQI4SofSFEd-5zA #Impulse
+      - UCZ9x-z3iOnIbJxVpm1rsu2A #Iskall
+      - UChFur_NwVSbUozOcF_F2kMg #mumbo
     playlist_id:
       - PLoH7Sjb8-XEhkvoAO9AuSxVTzI4mjm6b2 #Cubfan
       - PLvh8CGg6LWwqDwmDxZwCxsEkoEluAlAsc #Docm77
