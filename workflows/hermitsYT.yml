@@ -8,6 +8,13 @@ on:
       - UCZ9x-z3iOnIbJxVpm1rsu2A #Iskall
       - UChFur_NwVSbUozOcF_F2kMg #mumbo
       - UCR9Gcq0CMm6YgTzsDxAxjOQ #Grian
+      - UC4YUKOBld2PoOLzk0YZ80lw #Tango
+      - UCodkNmk9oWRTIYZdr_HuSlg #Scar
+      - UCu17Sme-KE87ca9OTzP0p7g #Beef
+      - UCPK5G4jeoVEbUp5crKJl6CQ #Zedaph
+      - UCKEJZ-dqIA03evnzEy1_owg #WelsKnight
+      - UCcJgOennb0II4a_qi9OMkRA #Keralis
+      - UCDpdtiUfcdUCzokpRWORRqA #Rendog
     playlist_id:
       - PLoH7Sjb8-XEhkvoAO9AuSxVTzI4mjm6b2 #Cubfan
       - PLvh8CGg6LWwqDwmDxZwCxsEkoEluAlAsc #Docm77
@@ -19,6 +26,8 @@ on:
       - PLFDYDXHl7Us91k8tXW-RPKjsrVXm38agF #stress
       - PLVO4L4qtJmBqmtvYc63HlwABXnn-JT3r3 #ZombieCleo
       - PL7VmhWGNRxKhcYT-uZBY5mb0SQH8jvSXh #Xisumavoid
+      - PLrp4YiBloNz7nBSFiLJZhHWFdPFPT3xbR #TinFoilChef
+      - PLmtS5lzk1pBR_NBsqSeHoQy7UOLnxTSHt #Xbcrafted 
 jobs:
   print:
     name: Print
