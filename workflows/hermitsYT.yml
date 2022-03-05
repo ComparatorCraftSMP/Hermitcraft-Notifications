@@ -1,0 +1,21 @@
+on:
+  youtube:
+    channel_id:
+      - UCnCikd0s4i9KoDtaHPlK-JA
+      - UCseUQK4kC3x2x543nHtGpzw
+jobs:
+  print:
+    name: Print
+    runs-on: ubuntu-latest
+    steps:
+      - name: Make a HTTP Request
+        uses: actionsflow/axios@v1
+        with:
+          url: https://hookb.in/VGPzxoWbdjtE22bwznzE
+          method: POST
+          body: |
+            {
+              "link":"${{ on.rss.outputs.link }}", 
+              "title": "${{ on.rss.outputs.title }}",
+              "content":"<<<${{ on.rss.outputs.contentSnippet }}>>>"
+            }
