@@ -2,7 +2,16 @@ on:
   youtube:
     playlist_id:
       - PLoH7Sjb8-XEhkvoAO9AuSxVTzI4mjm6b2 #Cubfan
-      - 
+      - PLvh8CGg6LWwqDwmDxZwCxsEkoEluAlAsc #Docm77
+      - PLgj0MXHeQpb8KImbZzXDt0dnugiz1aOMQ #False
+      - PLfim1Ac_MuxZkX_ibQCc59EGJj-fyUUKd #GeminiTay
+      - PL9heRuhTVdQRMlSWZOalzcsdiQ6a93sYD #iJevin
+      - PL7On8E0_x1tpitQoqpUay6FFzHpPUjIQi #JoeHills
+      - PLxAyA97FNoKKRzhFu2B20bsOatAKm69KF #PearlecentMoon
+      - PLFDYDXHl7Us91k8tXW-RPKjsrVXm38agF #stress
+      - PLU2851hDb3SEbbc0Zx5KTD6-heWGGaKrb #Grian
+      - PLVO4L4qtJmBqmtvYc63HlwABXnn-JT3r3 #ZombieCleo
+      - PL7VmhWGNRxKhcYT-uZBY5mb0SQH8jvSXh #Xisumavoid
 jobs:
   print:
     name: Print
