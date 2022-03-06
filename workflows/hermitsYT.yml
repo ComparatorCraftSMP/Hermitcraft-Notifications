@@ -1,13 +1,10 @@
 on:
   youtube:
     channel_id:
-      - UClu2e7S8atp6tG2galK9hgg #Bdubs
       - UCFKDEp9si4RmHFWJW1vYsMA #Etho
       - UChi5MyXJLQuPni3dM19Ar3g #Hypno
       - UCuMJPFqazQI4SofSFEd-5zA #Impulse
       - UCZ9x-z3iOnIbJxVpm1rsu2A #Iskall
-      - UChFur_NwVSbUozOcF_F2kMg #mumbo
-      - UCR9Gcq0CMm6YgTzsDxAxjOQ #Grian
       - UC4YUKOBld2PoOLzk0YZ80lw #Tango
       - UCodkNmk9oWRTIYZdr_HuSlg #Scar
       - UCu17Sme-KE87ca9OTzP0p7g #Beef
@@ -28,6 +25,9 @@ on:
       - PL7VmhWGNRxKhcYT-uZBY5mb0SQH8jvSXh #Xisumavoid
       - PLrp4YiBloNz7nBSFiLJZhHWFdPFPT3xbR #TinFoilChef
       - PLmtS5lzk1pBR_NBsqSeHoQy7UOLnxTSHt #Xbcrafted 
+      - PL2XncHqN_7yJhlp6JgHAQG4M5LJmhmZlW #Bdubs
+      - PLFm1tTY1NA4ebglc7QWni3Vx6Zzdx0PQu #Mumbo
+      - PLU2851hDb3SEbbc0Zx5KTD6-heWGGaKrb #Grian
 jobs:
   print:
     name: Print
