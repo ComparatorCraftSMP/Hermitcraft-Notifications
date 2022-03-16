@@ -2,14 +2,10 @@ on:
   youtube:
     channel_id:
       - UCFKDEp9si4RmHFWJW1vYsMA #Etho
-      - UChi5MyXJLQuPni3dM19Ar3g #Hypno
-      - UCuMJPFqazQI4SofSFEd-5zA #Impulse
       - UCZ9x-z3iOnIbJxVpm1rsu2A #Iskall
-      - UC4YUKOBld2PoOLzk0YZ80lw #Tango
       - UCodkNmk9oWRTIYZdr_HuSlg #Scar
       - UCu17Sme-KE87ca9OTzP0p7g #Beef
       - UCPK5G4jeoVEbUp5crKJl6CQ #Zedaph
-      - UCKEJZ-dqIA03evnzEy1_owg #WelsKnight
       - UCcJgOennb0II4a_qi9OMkRA #Keralis
       - UCDpdtiUfcdUCzokpRWORRqA #Rendog
     playlist_id:
@@ -28,6 +24,10 @@ on:
       - PL2XncHqN_7yJhlp6JgHAQG4M5LJmhmZlW #Bdubs
       - PLFm1tTY1NA4ebglc7QWni3Vx6Zzdx0PQu #Mumbo
       - PLU2851hDb3SEbbc0Zx5KTD6-heWGGaKrb #Grian
+      - PL8t707flkqpfRW-KEWIjQnIWs_akYpmI6 #Tango
+      - PL0Z8otuXXj_3PuWDk_sjiUJ_Q8PcmwWJ4 #ImpulseSV
+      - PLriprjos26pv_SyO1NLg_W8LqkbqKruXb #Hypo
+      - PL3e14exB92LIQIqOBEUeLNiP6Bci4-xcO #Welsknight 
 jobs:
   print:
     name: Print
