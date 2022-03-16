@@ -39,5 +39,5 @@ jobs:
           url: ${{secrets.DISCORD_WEBHOOK}}
           method: 'POST'
           data: {
-              "content":"${{on.youtube.outputs.author}} Uploaded a new Hermitcraft video: <<<${{on.youtube.outputs.title}}>>> \n**Link**: <<<${{on.youtube.outputs.link}}>>>"
+              "content":"<<<${{on.youtube.outputs.author}}>>> Uploaded a new Hermitcraft video: <<<${{on.youtube.outputs.title}}>>> \n**Link**: <<<${{on.youtube.outputs.link}}>>>"
               }
